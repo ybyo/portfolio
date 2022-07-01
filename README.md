@@ -1,6 +1,6 @@
 # 이병용
 
-클라우드와 관련된 연구를 수행한 경험이 있습니다. 최근에는 DevOps에 관련된 학습을 진행하고 있습니.
+클라우드와 관련된 연구를 수행한 경험이 있습니다. 최근에는 DevOps에 관련된 학습을 진행하고 있습니다.
 
 ## 프로젝트 경험
 
@@ -21,7 +21,7 @@ AWS 리소스를 사용하여 정적 웹 이력서 배포
 
 #### 관련 링크
 
- * [이력서 링크](https://resume-ko.yibyeongyong.com/)
+ * [이력서 링크](https://resume-ko.yibyeongyong.com)
  * [레포지토리 링크](https://github.com/ybyo/resume-on-aws)
 
 ### API 호출 단위 자원 할당 및 사용량 계량이 가능한 서버리스 클라우드 컴퓨팅 기술 개발
