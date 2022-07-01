@@ -6,11 +6,11 @@
 
 ### Resume on AWS
 
-AWS 리소스를 사용하여 정적 웹 이력서 배포
+AWS 리소스를 활용한 정적 웹 이력서 배포
 
 #### 수행 내용
 
- * Javascript, AWS API Gateway, AWS Lambda, AWS DynamoDB가 연계된 방문자 수 카운트 기능 구현 및 테스트 코드 작성
+ * AWS Lambda를 활용한 방문자 수 카운트 기능 구현 및 테스트 코드 작성
  * AWS CloudFront, Certificate Manager를 활용한 HTTPS 연결 설정
  * AWS CloudFormation, SAM을 활용한 AWS 리소스 배포
  * Github Actions를 활용한 CI/CD
@@ -46,8 +46,8 @@ AWS 리소스를 사용하여 정적 웹 이력서 배포
  * 2019년도 한국정보보호학회 동계학술대회 우수논문상 수상([링크](https://resume-ko.yibyeongyong.com/cisc-w19-prize.pdf))
  * 특허 등록(출원번호: 1020200019490)([링크](https://resume-ko.yibyeongyong.com/patent-procmon.pdf))
  * 팀 구성 및 맡은 역할
-   * 팀 구성: 커널 모듈 개발3, 커널 모듈 매니저 개발1, 개발 환경 구성1
-   * 맡은 역할: 커널 모듈 개발 및 개발 환경 구성 담당
+   * 팀 구성 - 커널 모듈 개발3, 커널 모듈 매니저 개발1, 개발 환경 구성1
+   * 맡은 역할 - 커널 모듈 개발 및 개발 환경 구성 담당
 
 #### 사용 기술
 
