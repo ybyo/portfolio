@@ -16,6 +16,14 @@ AWS 리소스를 사용하여 정적 웹 이력서 배포
  * Github Actions를 활용한 CI/CD
  * 1인 프로젝트
 
+#### 사용 기술
+
+ * 정적 웹 - AWS S3
+ * 이력서 방문자 수 카운트 - Javascript, AWS DynamoDB, AWS Lambda, AWS API Gateway
+ * HTTPS - AWS CloudFront, AWS Certificate Manager
+ * IaC - AWS CloudFormation, AWS SAM
+ * CI/CD - Github Actions
+
 #### 수행 기간
 
 2022/05 ~ 지속 개선 중
@@ -40,6 +48,11 @@ AWS 리소스를 사용하여 정적 웹 이력서 배포
  * 팀 구성 및 맡은 역할
    * 팀 구성: 커널 모듈 개발3, 커널 모듈 매니저 개발1, 개발 환경 구성1
    * 맡은 역할: 커널 모듈 개발 및 개발 환경 구성 담당
+
+#### 사용 기술
+
+ * 리눅스 커널 모듈 - C
+ * 커널 모듈 매니저 - Python3.x
 
 #### 수행 기간
 
