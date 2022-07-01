@@ -32,10 +32,8 @@ AWS 리소스를 사용하여 정적 웹 이력서 배포
 
  * 가상머신, 컨테이너를 대상으로 메모리 사용량을 낮은 오버헤드로 측정하는 리눅스 커널 모듈 개발
  * 상기 리눅스 커널 모듈을 제어하는 커널 모듈 매니저 개발
- * 2019년도 한국정보보호학회 동계학술대회 우수논문상 수상
-   * [링크](https://resume-ko.yibyeongyong.com/cisc-w19-prize.pdf)
- * 특허 등록(출원번호: 1020200019490)
-   * [링크](https://resume-ko.yibyeongyong.com/patent-procmon.pdf)
+ * 2019년도 한국정보보호학회 동계학술대회 우수논문상 수상([링크](https://resume-ko.yibyeongyong.com/cisc-w19-prize.pdf))
+ * 특허 등록(출원번호: 1020200019490)([링크](https://resume-ko.yibyeongyong.com/patent-procmon.pdf))
 
  * 팀 구성 및 맡은 역할
    * 커널 모듈 개발3, 커널 모듈 매니저 개발1, 개발 환경 구성1
