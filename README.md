@@ -16,11 +16,11 @@ Resume: resume-ko.yibyeongyong.com
 
 ## Active Repository
 
-| Title                                                            | Description                                             | Used Techs |
-|------------------------------------------------------------------|---------------------------------------------------------|------------|
-| [automation-scripts](https://github.com/ybyo/automation-scripts) | 반복 업무 자동화 스크립트                                          | Python3    |
-| [dev-wiki](https://github.com/ybyo/dev-wiki)                     | 개인 공부 내용, 프로젝트 수행 과정, Troubleshooting 기록                | Markdown   |
-| [problem-solving](https://github.com/ybyo/problem-solving)       | Code challenge 플랫폼의 정답 업로드.<br/>주로 Leetcode Daily 풀이 수행 | C++        |
+| Title                                                            | Description                                         | Used Techs |
+|------------------------------------------------------------------|-----------------------------------------------------|------------|
+| [automation-scripts](https://github.com/ybyo/automation-scripts) | 반복 업무 자동화 스크립트                                      | Python3    |
+| [dev-wiki](https://github.com/ybyo/dev-wiki)                     | 개인 공부 내용, 프로젝트 수행 과정, Troubleshooting 기록            | Markdown   |
+| [problem-solving](https://github.com/ybyo/problem-solving)       | Code challenge 플랫폼의 정답 업로드. 주로 Leetcode Daily 풀이 수행 | C++        |
 
 ## Projects Details
 
