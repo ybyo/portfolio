@@ -1,10 +1,9 @@
 # 이병용
 
-Email: ybyo@yibyeongyong.com
+* Email: ybyo@yibyeongyong.com
+* Resume: [resume-ko.yibyeongyong.com](https://resume-ko.yibyeongyong.com/)
 
-Resume: resume-ko.yibyeongyong.com
-
-정보보안과 클라우드를 어우르는 경험을 쌓아온 이병용입니다. 학부 시절엔 정보보안을 학습하고 대학원에선 클라우드를 연구하였습니다. 이러한 경험을 바탕으로 최근엔 DevOps 기술들을 활용한 개인 프로젝트를 진행하고있으며, 관련된 직무로 커리어를 쌓아나가고 싶습니다.
+정보보안과 클라우드를 어우르는 경험을 쌓아왔습니다. 학부 시절엔 정보보안을 학습하고 대학원에선 클라우드를 연구하였습니다. 이러한 경험을 바탕으로 최근엔 DevOps 기술들을 활용한 개인 프로젝트를 진행하고 있으며, 관련된 직무로 커리어를 쌓아나가고 싶습니다.
 
 ## 프로젝트
 
@@ -50,7 +49,7 @@ AWS 리소스를 활용한 정적 웹 이력서 배포. 개인 학습 목적으�
 |   Monitoring Module   | Container, VM 대상 낮은 오버헤드로 모니터링 수행 | C, Linux Kernel Module |
 | Kernel Module Manager | 모니터링 모듈 제어, 모니터링 대상 PID 추출        | Python3                |
 
-#### 관련 수상 내역
+#### 관련 수상 실적
 
  * 2019년도 한국정보보호학회 동계학술대회 [우수논문상](https://resume-ko.yibyeongyong.com/cisc-w19-prize.pdf) 수상
  * [특허](https://resume-ko.yibyeongyong.com/patent-procmon.pdf) 등록(출원번호: 1020200019490)
@@ -66,10 +65,10 @@ AWS 리소스를 활용한 정적 웹 이력서 배포. 개인 학습 목적으�
    * [성능 비교](https://resume-ko.yibyeongyong.com/demo-1.mp4)
    * [성능 측정](https://resume-ko.yibyeongyong.com/demo-2.mp4)
 
-## 운영중인 레포지토리
+## 운영 중인 레포지토리
 
 | Title                                                            | Description                              | Used Techs |
 |------------------------------------------------------------------|------------------------------------------|------------|
 | [automation-scripts](https://github.com/ybyo/automation-scripts) | 반복 업무 자동화 스크립트                           | Python3    |
 | [dev-wiki](https://github.com/ybyo/dev-wiki)                     | 개인 공부 내용, 프로젝트 수행 과정, Troubleshooting 기록 | Markdown   |
-| [problem-solving](https://github.com/ybyo/problem-solving)       | 알고리즘 문제풀이.<br/> 주로 Leetcode Daily 풀이 수행  | C++        |
+| [problem-solving](https://github.com/ybyo/problem-solving)       | 알고리즘 문제 풀이.<br/> 주로 Leetcode Daily 풀이 수행 | C++        |
