@@ -24,8 +24,8 @@ AWS 리소스를 활용한 정적 웹 이력서 배포. 개인 학습 목적으�
 
 |  Features  | Description                     | Used Techs                                            |
 |:----------:|---------------------------------|-------------------------------------------------------|
-| View Count | 이력서에 들어갈 방문자 수 카운트 기능 구현        | Javascript, AWS API Gateway, AWS Lambda, AWS DynamoDB |
 |   HTTPS    | 사용자, 엔드포인트 간의 안전한 연결 구성         | AWS CloudFront, AWS Certificate Manager               |
+| View Count | 이력서에 들어갈 방문자 수 카운트 기능 구현        | Javascript, AWS API Gateway, AWS Lambda, AWS DynamoDB |
 |    IaC     | AWS 리소스를 코드를 통해 API로 배포         | AWS CloudFormation, AWS SAM                           |
 |   CI/CD    | Github에 갱신된 변경사항이 자동으로 배포되도록 구성 | Github Actions                                        |
 
