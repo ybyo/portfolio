@@ -9,10 +9,10 @@
 
 석사과정 및 개인적으로 수행한 프로젝트 목록입니다.
 
-| Title                                                                         | Description                      | Used Techs                      |
-|-------------------------------------------------------------------------------|----------------------------------|---------------------------------|
+| Title | Description | Used Techs |
+|---|---|---|
 | [OpenFx-metering](https://github.com/keti-openfx/OpenFx-metering/tree/master) | Container, VM 대상 메모리 사용량 모니터링 도구 | C, Python3, Linux Kernel Module |
-| [resume-on-aws](https://github.com/ybyo/resume-on-aws)                        | AWS 리소스를 활용한 정적 웹 이력서 배포         | Python3, AWS                    |
+| [resume-on-aws](https://github.com/ybyo/resume-on-aws) | AWS 리소스를 활용한 정적 웹 이력서 배포 | Python3, AWS |
 
 ## 프로젝트 상세
 
@@ -22,12 +22,12 @@ AWS 리소스를 활용한 정적 웹 이력서 배포. 개인 학습 목적으�
 
 #### 기능 및 구성
 
-|  Features  | Description                     | Used Techs                                            |
-|:----------:|---------------------------------|-------------------------------------------------------|
-| View Count | 이력서에 들어갈 방문자 수 카운트 기능 구현        | Javascript, AWS API Gateway, AWS Lambda, AWS DynamoDB |
-|   HTTPS    | 사용자, 엔드포인트 간의 안전한 연결 구성         | AWS CloudFront, AWS Certificate Manager               |
-|    IaC     | AWS 리소스를 코드를 통해 API로 배포         | AWS CloudFormation, AWS SAM                           |
-|   CI/CD    | Github에 갱신된 변경사항이 자동으로 배포되도록 구성 | Github Actions                                        |
+| Features | Description | Used Techs |
+|:---:|---|---|
+| View Count | 이력서에 들어갈 방문자 수 카운트 기능 구현 | Javascript, AWS API Gateway, AWS Lambda, AWS DynamoDB |
+| HTTPS | 사용자, 엔드포인트 간의 안전한 연결 구성 | AWS CloudFront, AWS Certificate Manager |
+| IaC | AWS 리소스를 코드를 통해 API로 배포 | AWS CloudFormation, AWS SAM |
+| CI/CD | Github에 갱신된 변경사항이 자동으로 배포되도록 구성 | Github Actions |
 
 #### 수행 기간
 
@@ -44,10 +44,10 @@ AWS 리소스를 활용한 정적 웹 이력서 배포. 개인 학습 목적으�
 
 #### 기능 및 구성
 
-|       Features        | Description                       | Used Techs             |
-|:---------------------:|-----------------------------------|------------------------|
-|   Monitoring Module   | Container, VM 대상 낮은 오버헤드로 모니터링 수행 | C, Linux Kernel Module |
-| Kernel Module Manager | 모니터링 모듈 제어, 모니터링 대상 PID 추출        | Python3                |
+| Features | Description | Used Techs |
+|:---:|---|---|
+| Monitoring Module | Container, VM 대상 낮은 오버헤드로 모니터링 수행 | C, Linux Kernel Module |
+| Kernel Module Manager | 모니터링 모듈 제어, 모니터링 대상 PID 추출 | Python3 |
 
 #### 관련 수상 실적
 
@@ -62,13 +62,16 @@ AWS 리소스를 활용한 정적 웹 이력서 배포. 개인 학습 목적으�
 
 * [레포지토리](https://github.com/keti-openfx/OpenFx-metering)
 * 데모 영상
-   * [성능 비교](https://resume-ko.yibyeongyong.com/demo-1.mp4)
-   * [성능 측정](https://resume-ko.yibyeongyong.com/demo-2.mp4)
+  * [성능 비교](https://resume-ko.yibyeongyong.com/demo-1.mp4)
+  * [성능 측정](https://resume-ko.yibyeongyong.com/demo-2.mp4)
 
 ## 운영 중인 레포지토리
 
-| Title                                                            | Description                              | Used Techs |
-|------------------------------------------------------------------|------------------------------------------|------------|
-| [automation-scripts](https://github.com/ybyo/automation-scripts) | 반복 업무 자동화 스크립트                           | Python3    |
-| [dev-wiki](https://github.com/ybyo/dev-wiki)                     | 개인 공부 내용, 프로젝트 수행 과정, Troubleshooting 기록 | Markdown   |
-| [problem-solving](https://github.com/ybyo/problem-solving)       | 알고리즘 문제 풀이.<br/> 주로 Leetcode Daily 풀이 수행 | C++        |
+* [automation-scripts](https://github.com/ybyo/automation-scripts)
+  * 업무 자동화 스크립트 공부 및 공유 목적으로 운영 중
+* [dev-wiki](https://github.com/ybyo/dev-wiki)
+  * 개인 공부 내용, 프로젝트 수행 과정, 트러블 슈팅 경험 기록용
+  * Gitbook으로 퍼블리쉬 중(dev-wiki.yibyeongyong.com)
+* [problem-solving](https://github.com/ybyo/problem-solving)
+  * 알고리즘 문제 풀이 기록용
+  * 주로 Leetcode 문제를 품(C++, Python3)
